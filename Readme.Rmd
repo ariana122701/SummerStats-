@@ -1,0 +1,13 @@
+---
+
+output: word_document
+---
+# UCSB PBS Summer Stats REpository 
+
+## Ariana 
+## California State University Channel Islands 
+## Dr. Zoe Liberman 
+
+***
+
+This is the repository I will use to save all my files for my extremely fun and interesting summer stats workshop. 
