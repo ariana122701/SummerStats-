@@ -1,0 +1,347 @@
+Subject #,Coder1,Coder2,Coder3,Coder Notes,"Condition
+
+R = Right
+W = Wrong","Order Number
+
+
+1, 2, 3, or 4","Who was corrected
+/affirmed in public?","Who was corrected
+/affirmed in private?","Gender
+
+M = Male
+F = Female
+S = Something Else","Date of Birth:
+
+(MM/15/YYYY)","Date of Testing:
+
+(MM/DD/YYYY)",Age Calculation,"Experimenter
+Initials","Experimenter
+Notes
+
+If none put NA","Testing Location
+
+Zoo or MOXI","Friendship
+
+T = Taylor
+J = Jayden","Competence
+
+T = Taylor
+J = Jayden","Attention Check
+
+T or J","Parent Survey Starts
+
+------>",Parent survey completed?,"Child's Gender
+
+Male
+Female
+Something Else
+","Child's Age
+in Years
+
+Put NA if no
+response","Date of Birth
+
+(MM/15/YYYY)",Child's Race/Ethnicity,Exclude?
+1,AH,AKA,GB,,R,3,T,J,M,9/15/2016,6/3/2023,6.71321013,ALM,totally forgot to do the attention question,moxi,J,J,NA,,Y,Male,6,9/15/2016,White,No
+2,AH,AKA,GB,,R,4,J,T,M,10/15/2015,6/3/2023,7.633127995,AKM,NA,moxi,T,T,T,,Y,Male,7,10/15/2015,White,No
+3,AH,AKA,GB,,R,3,T,J,M,9/15/2017,6/3/2023,5.713894593,ALM,NA,moxi,T,J,T,,Y,Male,5,9/15/2017,White,No
+4,AH,AKA,GB,,W,2,T,J,M,4/15/2017,6/3/2023,6.132785763,AKM,NA,moxi,T,T,T,,Y,Male,6,4/15/2017,Asian or Asian American,No
+5,AH,AKA,GB,,R,2,T,J,F,12/15/2012,6/3/2023,10.46406571,ALM,NA,moxi,T,J,T,,Y,Female,10,12/15/2012,Hispanic or Latine,No
+6,AH,AKA,GB,,W,3,T,J,F,5/15/2017,6/3/2023,6.05065024,AKM,NA,moxi,J,J,T,,Y,Female,6,5/15/2017,White,No
+7,AH,AKA,GB,,R,2,T,J,F,10/15/2017,6/3/2023,5.631759069,ALM,NA,moxi,T,J,T,,Y,Female,5,10/15/2017,White,No
+8,AH,AKA,GB,,R,1,J,T,F,2/15/2014,6/3/2023,9.295003422,AKM,NA,moxi,J,J,J,,Y,Female,9,2/15/2014,White,No
+9,AH,AKA,GB,,W,1,J,T,M,5/15/2015,6/3/2023,8.052019165,ALM,NA,moxi,T,J,J,,Y,Male,8,5/15/2015,White,No
+10,AH,AKA,GB,,W,2,T,J,M,9/15/2017,6/3/2023,5.713894593,AKM,NA,moxi,J,T,T,,Y,Male,5,9/15/2017,White,No
+11,AH,AKA,GB,age given by child and parent don't match,W,4,J,T,F,6/15/2016,6/3/2023,6.965092402,ALM,NA,moxi,T,T,J,,Y,Female,7,6/15/2016,Asian or Asian American,No
+12,AH,AKA,GB,,R,4,J,T,M,11/15/2011,6/3/2023,11.54825462,AKM,NA,moxi,T,T,T,,Y,Male,11,11/15/2011,Hispanic or Latine,No
+13,AH,AKA,GB,,W,4,J,T,F,1/15/2015,6/3/2023,8.380561259,ALM,NA,moxi,J,J,T,,Y,Female,8,1/15/2015,Hispanic or Latine,No
+15,AH,AKA,GB,,W,1,J,T,M,10/15/2018,6/3/2023,4.632443532,ALM,NA,moxi,T,T,J,,Y,Male,4,10/15/2018,White,No
+16,AH,AKA,GB,birthday filled in from demo sheet,R,1,J,T,F,4/15/2019,6/4/2023,4.136892539,AH,NA,moxi,T,J,T,,Y,Female,4,4/15/2019,Asian or Asian American; Black or African American; White,No
+17,AH,AKA,GB,birth year filled in from demo sheet,W,1,J,T,M,6/15/2018,6/4/2023,4.969199179,AH,NA,moxi,T,J,T,,Y,Male,4,6/15/2018,White,No
+18,AH,AKA,GB,was listed as participant 618 on demographic sheet?,W,4,J,T,F,9/15/2015,6/4/2023,7.718001369,RC,forgot to ask (attention check),moxi,T,J,NA,,Y,Female,7,9/15/2015,Hispanic or Latine,No
+19,AH,AKA,GB,,R,2,T,J,F,12/15/2015,6/4/2023,7.468856947,AH,NA,moxi,T,T,J,,Y,Female,7,12/15/2015,White,No
+20,AH,AKA,GB,,R,4,J,T,M,1/15/2013,6/4/2023,10.38193018,RC,NA,moxi,J,T,J,,Y,Male,10,1/15/2013,Asian or Asian American,No
+21,AH,AKA,GB,,R,1,J,T,F,4/15/2015,6/4/2023,8.136892539,AH,NA,moxi,J,J,J,,Y,Female,8,4/15/2015,Asian or Asian American,No
+22,AH,AKA,GB,,W,4,J,T,F,7/15/2013,6/4/2023,9.886379192,RC,NA,moxi,T,T,J,,Y,Female,9,7/15/2013,Asian or Asian American; White,No
+23,AH,AKA,GB,birthday filled in from demo sheet,W,2,T,J,M,7/15/2017,6/4/2023,5.886379192,AH,didn't answer the attention check Q because they didn't remember,moxi,J,T,doesn't remember,,Y,Male,5,7/15/2017,Asian or Asian American; White,No
+24,AH,AKA,GB,,W,1,J,T,M,6/15/2017,6/4/2023,5.968514716,AH,NA,moxi,T,J,T,,Y,Male,5,6/15/2017,Hispanic or Latine,No
+25,AH,AKA,GB,,R,2,T,J,F,4/15/2018,6/4/2023,5.136208077,AH,NA,moxi,J,T,J,,Y,Female,5,4/15/2018,White,No
+26,AH,AKA,GB,,W,2,T,J,M,10/15/2012,6/4/2023,10.63381246,AH,NA,moxi,J,J,T,,Y,Male,10,10/15/2012,Asian or Asian American; White,No
+27,CY,AA,AK,,W,2,T,J,F,6/15/2017,6/10/2023,5.984941821,ALM,NA,moxi,J,T,T,,Y,Female,5,6/15/2017,White,No
+28,CY,AA,AK,,W,1,J,T,F,5/15/2018,6/10/2023,5.070499658,BD,NA,moxi,J,J,T,,Y,Female,5,5/15/2018,Asian or Asian American; White,No
+29,CY,AA,AK,,W,1,J,T,F,6/15/2017,6/10/2023,5.984941821,ALM,NA,moxi,T,T,J,,Y,Female,5,6/15/2017,White,No
+30,CY,AA,AK,,R,3,T,J,S,4/15/2017,6/10/2023,6.151950719,BD,NA,moxi,J,T,T,,Y,Something Else,4,4/15/2019,White,No
+31,CY,AA,AK,,W,1,J,T,F,9/15/2019,6/10/2023,3.734428474,ALM,NA,moxi,J,T,J,,Y,Female,3,9/15/2019,Asian or Asian American; White,Yes - Age
+32,CY,AA,AK,,W,3,T,J,M,9/15/2017,6/10/2023,5.733059548,BD,NA,moxi,J,T,T,,Y,Male,5,9/15/2017,Asian or Asian American; White,No
+33,CY,AA,AK,,R,1,J,T,M,4/15/2019,6/10/2023,4.153319644,ALM,NA,moxi,J,J,J,,Y,Male,4,4/15/2019,White,No
+34,CY,AA,AK,,W,1,J,T,F,10/15/2010,6/10/2023,12.65160849,BD,NA,moxi,T,T,J,,Y,Female,12,10/15/2010,White,No
+35,CY,AA,AK,,W,1,J,T,F,10/15/2017,6/10/2023,5.650924025,ALM,asked a couple times phrasing it in different ways and she kept insisting they were both wrong and she knows because she is a dinosaur expert like Alex,moxi,J,NA,J,,Y,Female,5,10/15/2017,White,Yes - DNF
+36,CY,AA,AK,,R,2,T,J,M,1/15/2012,6/10/2023,11.40041068,BD,NA,moxi,T,T,T,,Y,Male,11,1/15/2012,Hispanic or Latine; White,No
+37,CY,AA,AK,,R,1,J,T,M,3/15/2017,6/10/2023,6.236824093,ALM,NA,moxi,T,J,T,,Y,Male,6,3/15/2017,White,No
+38,CY,AA,AK,,R,3,T,J,F,10/15/2014,6/10/2023,8.651608487,BD,NA,moxi,T,T,T,,Y,Female,8,10/15/2014,White,No
+39,CY,AA,AK,,R,1,J,T,M,10/15/2016,6/10/2023,6.650239562,ALM,NA,moxi,T,J,J,,Y,Male,6,10/15/2016,White,No
+40,CY,AA,AK,Age and birthdate do not match; changed birthdate to be closer to reported age of demographic form,W,4,J,T,M,6/15/2017,6/10/2023,5.984941821,BD,NA,moxi,J,J,T,,Y,Male,7,6/15/2017,White,No
+41,CY,AA,AK,Age and birthdate do not match; Changed birthdate to be consistent with reported age,W,3,T,J,M,5/15/2011,6/10/2023,12.07118412,ALM,NA,moxi,J,T,T,,Y,Male,NA,5/15/2011,White,No
+42,CY,AA,AK,,R,1,J,T,M,4/15/2016,6/10/2023,7.151266256,BD,NA,moxi,J,T,J,,Y,Male,7,4/15/2016,White,No
+43,CY,AA,AK,,W,3,T,J,M,11/15/2011,6/10/2023,11.56741958,ALM,NA,moxi,J,J,T,,Y,Male,11,11/15/2011,Hispanic or Latine,No
+44,CY,AA,AK,,R,3,T,J,F,11/15/2012,6/10/2023,10.56536619,BD,NA,moxi,T,J,T,,Y,Female,10,11/15/2012,Hispanic or Latine,No
+45,CY,AA,AK,,R,4,J,T,F,8/15/2012,6/10/2023,10.81724846,ALM,NA,moxi,T,T,J,,Y,Female,10,8/15/2012,Black or African American,No
+46,CY,AA,AK,,W,3,T,J,M,8/15/2012,6/10/2023,10.81724846,BD,NA,moxi,J,J,J,,Y,Male,10,8/15/2012,Black or African American,No
+47,CY,AA,AK,,W,4,J,T,M,8/15/2012,6/10/2023,10.81724846,BD,NA,moxi,T,T,J,,Y,Male,10,8/15/2012,Black or African American,No
+48,CY,AA,AK,,W,3,T,J,F,5/15/2017,6/10/2023,6.069815195,BD,NA,moxi,J,T,J,,Y,Female,6,5/15/2017,Asian or Asian American; White,No
+49,CY,AA,AK,,W,1,J,T,F,7/15/2017,6/10/2023,5.902806297,ALM,NA,moxi,T,J,T,,Y,Female,5,7/15/2017,White,No
+50,CY,AA,AK,,R,4,J,T,F,4/15/2016,6/11/2023,7.154004107,AM,could hear other child answer across the table,moxi,T,T,J,,Y,Female,7,4/15/2016,White,Maybe
+51,CY,AA,AK,,W,1,J,T,F,4/15/2016,6/11/2023,7.154004107,RC,NA,moxi,T,T,J,,Y,Female,7,4/15/2016,Hispanic or Latine,No
+52,CY,AA,AK,reported birthdates differ,R,3,T,J,F,6/15/2017,6/11/2023,5.987679671,AM,watched child before take the study; parent wasn't present,,J,T,J,,Y,Female,6,1/15/2017,,Maybe
+53,CY,AA,AK,,W,2,T,J,F,3/15/2018,6/11/2023,5.240246407,RC,for the friendship question said both the first time,moxi,J,T,T,,Y,Female,5,3/15/2018,Black or African American; White,No
+54,CY,AA,AK,,R,4,J,T,F,3/15/2016,6/11/2023,7.238877481,AM,NA,moxi,T,T,J,,Y,Female,7,3/15/2016,White,No
+55,CY,AA,AK,,R,2,T,J,M,9/15/2017,6/11/2023,5.735797399,RC,NA,moxi,T,J,T,,Y,Male,5,9/15/2017,Asian or Asian American,No
+56,CY,AA,AK,,R,3,T,J,F,3/15/2018,6/11/2023,5.240246407,AM,NA,moxi,J,J,J,,Y,Female,5,3/15/2018,White,No
+57,CY,AA,AK,,R,1,J,T,M,10/15/2016,6/11/2023,6.652977413,RC,NA,moxi,J,J,T,,Y,Male,7,10/15/2016,White,No
+58,CY,AA,AK,,R,4,J,T,F,10/15/2018,6/11/2023,4.654346338,AM,NA,moxi,T,T,J,,Y,Female,4,10/15/2018,White,No
+59,CY,AA,AK,,R,3,T,J,F,12/15/2013,6/11/2023,9.486652977,EY,NA,moxi,T,J,T,,Y,Female,9,12/15/2013,Asian or Asian American,No
+60,CY,AA,AK,,R,4,J,T,F,6/15/2016,6/11/2023,6.986995209,EY,NA,moxi,T,J,J,,Y,Female,7,6/15/2016,White,No
+61,CY,AA,AK,,W,1,J,T,F,3/15/2015,6/11/2023,8.240930869,RC,NA,moxi,T,T,J,,Y,Female,8,3/15/2015,White,No
+62,CY,AA,AK,,R,3,T,J,F,6/15/2016,6/11/2023,6.986995209,EY,NA,moxi,J,J,J,,Y,Female,7,6/15/2016,Hispanic or Latine,No
+63,CY,AA,AK,,W,2,T,J,F,6/15/2018,6/11/2023,4.988364134,RC,parent translated but child seem to follow story very well,moxi,T,J,T,,Y,Female,4,6/15/2018,White,Yes - Parent Interference
+64,CY,AA,AK,,R,4,J,T,F,4/15/2018,6/11/2023,5.155373032,EY,NA,moxi,J,J,J,,Y,Female,5,4/15/2018,White,No
+65,CY,AA,AK,,W,1,J,T,F,8/15/2013,6/11/2023,9.820670773,RC,mom re-explained what happened and child understand (and changed her answer to T) that Rowan would think Taylor knew more but I didn't change her original answer because of parental interference,moxi,T,J,J,,Y,Female,9,8/15/2013,White,Yes - Parent Interference
+66,CY,AA,AK,,W,3,T,J,M,4/15/2019,6/11/2023,4.156057495,EY,NA,moxi,J,J,J,,Y,Male,4,4/15/2019,White,No
+67,CY,AA,AK,,R,3,T,J,F,10/15/2013,6/11/2023,9.653661875,EY,NA,moxi,T,J,T,,Y,Female,9,10/15/2013,White,No
+68,CY,AA,AK,,R,4,J,T,F,10/15/2013,6/11/2023,9.653661875,EY,NA,moxi,J,J,J,,Y,Female,9,10/15/2013,White,No
+69,CY,VS,SR,,W,3,T,J,M,5/15/2019,6/30/2023,4.125941136,GB,NA,moxi,T,T,T,,Y,Male,4,5/15/2019,White,No
+70,CY,VS,SR,"birth month on parent survey says 05, birth month on sheet looks like it could be a 3 or a 5, assumed that it was 5",W,4,J,T,F,3/15/2010,6/30/2023,13.29226557,AK,NA,moxi,T,T,J,,Y,Female,13,3/15/2010,Hispanic or Latine,Yes - Age
+71,CY,VS,SR,,W,2,T,J,F,4/15/2020,6/30/2023,3.206023272,GB,NA,moxi,J,T,T,,Y,Female,3,4/15/2020,White,Yes - Age
+72,CY,VS,SR,,W,1,J,T,M,1/15/2017,6/30/2023,6.453114305,AK,was very distracted,moxi,J,T,T,,Y,NA,6,1/15/2017,Hispanic or Latine,Maybe
+73,CY,VS,SR,,W,4,J,T,F,5/15/2018,6/30/2023,5.125256674,GB,NA,moxi,T,J,J,,Y,Female,5,5/15/2018,White; Egyptian,No
+74,CY,VS,SR,,W,4,J,T,F,12/15/2014,6/30/2023,8.539356605,AK,NA,moxi,J,J,T,,Y,Female,8,12/15/2014,White,No
+75,CY,VS,SR,,W,4,J,T,F,10/15/2013,6/30/2023,9.70568104,GB,NA,moxi,T,T,J,,Y,Female,9,10/15/2013,White,No
+76,CY,VS,SR,"birth month on demo sheet is actually birth day, note on demo sheet says month is 6, not 11",W,4,J,T,F,6/15/2017,6/30/2023,6.039698836,AK,NA,moxi,J,T,T,,Y,Female,6,11/15/2017,Hispanic or Latine,No
+77,CY,VS,SR,,W,3,T,J,M,10/15/2011,6/30/2023,11.70704997,GB,NA,moxi,J,J,T,,Y,Male,11,10/15/2011,Hispanic or Latine,No
+78,CY,VS,SR,"Under ethnicity, Hispanic or Latine clearly marked, unclear if white marked or crossed out",W,4,J,T,F,11/15/2017,6/30/2023,5.620807666,AK,NA,moxi,J,J,J,,Y,Female,5,11/15/2017,Hispanic or Latine; White,No
+79,CY,VS,SR,,W,2,T,J,F,11/15/2015,6/30/2023,7.622176591,GB,NA,moxi,J,T,J,,Y,Female,7,11/15/2015,Hispanic or Latine; White,No
+80,CY,VS,SR,birthdates differ,W,4,J,T,F,7/15/2018,6/30/2023,4.958247775,AK,sibling interference was not following along with story,moxi,T,T,T,,Y,Female,4,9/15/2018,Hispanic or Latine,Yes - Interference
+81,CY,VS,AJ,,W,2,T,J,F,4/15/2016,6/30/2023,7.206023272,GB,NA,moxi,J,J,T,,Y,Female,7,4/15/2016,Hispanic or Latine,No
+82,CY,VS,AJ,,W,4,J,T,F,1/15/2015,6/30/2023,8.454483231,AK,NA,moxi,T,T,J,,Y,Female,8,NA,White,No
+83,CY,VS,AJ,age calculation and reported age do not match,W,3,T,J,M,10/15/2012,6/30/2023,10.70499658,GB,NA,moxi,T,J,T,,Y,Male,11,10/15/2012,Hispanic or Latine; White,No
+84,CY,VS,AJ,,W,1,J,T,M,4/15/2013,6/30/2023,10.20670773,AK,NA,moxi,T,J,J,,Y,Male,10,NA,White,No
+85,CY,VS,AJ,birthdate not reported. Input birthdate to match reported age,W,2,T,J,F,6/15/2019,6/30/2023,4.041067762,GB,NA,moxi,J,J,T,,Y,Female,4,NA,White,No
+86,CY,VS,AJ,,W,1,J,T,M,12/15/2018,6/30/2023,4.539356605,AK,parent interference; kid was not following along; parent was yelling at child,moxi,J,T,T,,Y,Male,4,12/15/2018,Hispanic or Latine,Yes - Interference
+87,CY,VS,AJ,,W,2,T,J,F,2/15/2019,6/30/2023,4.369609856,GB,NA,moxi,J,J,T,,Y,Female,4,2/15/2019,Black or African American; White,No
+88,CY,VS,AJ,large age discrepancy between child reported age and demo sheet,W,1,J,T,M,2/15/2017,6/30/2023,6.368240931,AK,NA,moxi,T,T,J,,Y,Male,10,7/15/2012,Hispanic or Latine; Native American or Alaska Native,Maybe
+89,CY,VS,AJ,,W,3,T,J,M,12/15/2014,6/30/2023,8.539356605,GB,NA,moxi,T,T,J,,Y,Male,8,12/15/2014,White,No
+90,CY,VS,AJ,demo sheet #88 may be the correct corresponding demo sheet for subject 90,W,1,J,T,M,7/15/2012,6/30/2023,10.95687885,AK,NA,moxi,T,T,J,,N,NA,NA,NA,NA,No
+91,CY,VS,AJ,,W,4,J,T,F,1/15/2017,6/30/2023,6.453114305,GB,NA,moxi,T,J,T,,Y,Female,6,1/15/2017,Hispanic or Latine; White,No
+92,CY,VS,AJ,,W,2,T,J,F,5/15/2019,6/30/2023,4.125941136,AK,NA,moxi,T,T,J,,Y,Female,4,5/15/2019,Hispanic or Latine; White,No
+93,CY,VS,AJ,child reported birth month and demo sheet birth month differ,W,3,T,J,M,7/15/2015,6/30/2023,7.958932238,GB,NA,moxi,T,T,J,,Y,Male,7,9/15/2015,Egyptian/Chinese,No
+94,CY,VS,AJ,used demo sheet birthdate for age calculation,W,4,J,T,F,2/15/2017,6/30/2023,6.368240931,AK,NA,moxi,T,T,J,,Y,Female,6,2/15/2017,White,No
+95,CY,VS,AJ,reported birthdate and date on demo sheet does not match,W,3,T,J,M,7/15/2015,6/30/2023,7.958932238,GB,NA,moxi,J,T,T,,Y,Male,7,9/15/2015,Egyptian/Chinese,No
+96,CY,VS,AJ,"Subjects 93, 95 and 96 are triplets?; Condition and order are missing ",,,#N/A,#N/A,M,9/15/2015,6/30/2023,7.789185489,,NA,,T,T,J,,Y,Male,7,9/15/2015,Egyptian/Chinese,Yes - Missing Data
+97,CY,VS,AJ,changed birthdate to match demo sheet and reported age,R,3,T,J,F,12/15/2017,7/1/2023,5.541409993,EY,NA,moxi,J,J,J,,Y,Female,5,12/15/2017,White; Native Hawaiian or Pacific Islander,No
+98,CY,VS,AJ,condition and order number missing,,,#N/A,#N/A,F,1/15/2016,6/30/2023,7.455167693,AK,NA,,T,NA,J,,Y,Female,7,1/15/2016,Hispanic or Latine; White,Yes - Missing Data
+99,CY,VS,AJ,,R,1,J,T,F,12/15/2019,7/1/2023,3.542778919,EY,NA,moxi,J,T,T,,Y,Female,3.5,12/15/2019,White,Yes - Age
+100,CY,VS,AJ,,R,3,T,J,M,1/15/2017,7/1/2023,6.455852156,KP,NA,moxi,T,T,J,,Y,Male,6,1/15/2017,White,No
+101,CY,VS,AJ,,R,2,T,J,M,8/15/2015,7/1/2023,7.876796715,EY,NA,moxi,T,T,T,,Y,Male,7,8/15/2015,White,No
+102,CY,VS,AJ,,R,3,T,J,F,6/15/2017,7/1/2023,6.042436687,KP,NA,moxi,J,J,J,,Y,Female,6,6/15/2017,White,No
+103,CY,VS,AJ,,R,3,T,J,F,2/15/2014,7/1/2023,9.371663244,EY,friendship: Taylor b/c she wasn't embarrassed to say something nice in front of the whole class,moxi,T,T,T,,Y,Female,9,2/15/2014,White,No
+104,CY,VS,AJ,,R,1,J,T,F,4/15/2016,7/1/2023,7.208761123,KP,Wanted to say both for Rowan question,moxi,J,J,J,,Y,Female,7,4/15/2016,White,No
+105,CY,VS,AJ,,R,1,J,T,F,7/15/2014,7/1/2023,8.960985626,EY,NA,moxi,J,J,J,,Y,Female,8,7/15/2014,White,No
+106,CY,VS,AJ,,R,3,T,J,F,10/15/2011,7/1/2023,11.70978782,KP,wanted to say neither for competence check,moxi,T,T,T,,Y,Female,11,10/15/2011,Hispanic or Latine; Native American or Alaska Native,No
+107,CY,VS,AJ,reported age and age calcuation do not match,R,1,J,T,F,1/15/2019,7/1/2023,4.457221081,EY,watched sister (105) do it before her,moxi,J,T,J,,Y,Female,6,1/15/2019,White,Yes - Interference
+108,CY,VS,AJ,,R,3,T,J,F,3/15/2015,7/1/2023,8.295687885,KP,NA,moxi,T,T,T,,Y,Female,8,3/15/2015,White,No
+109,CY,VS,AJ,,R,3,T,J,F,11/15/2016,7/1/2023,6.622861054,EY,NA,moxi,J,T,T,,Y,Female,6,11/15/2016,White,No
+110,CY,VS,AJ,,R,2,T,J,M,8/15/2018,7/1/2023,4.876112252,KP,NA,moxi,J,J,J,,Y,Male,4,8/15/2018,White,No
+111,CY,VS,AJ,changed birthdate to match reported age,R,3,T,J,F,5/15/2017,7/1/2023,6.127310062,EY,NA,moxi,J,T,J,,Y,Female,6,NA,Asian or Asian American,No
+112,CY,VS,AJ,,R,1,J,T,F,8/15/2016,7/1/2023,6.874743326,KP,NA,moxi,T,T,T,,Y,Female,6,8/15/2016,White,No
+113,CY,VS,AJ,,R,1,J,T,F,11/15/2015,7/1/2023,7.624914442,EY,NA,moxi,J,T,T,,Y,Female,7,11/15/2015,Hispanic or Latine,No
+114,CY,VS,AJ,,R,1,J,T,F,11/15/2013,7/1/2023,9.623545517,KP,for competence check participant wanted to say both,moxi,J,T,J,,Y,Female,9,NA,Asian or Asian American,No
+115,CY,VS,AJ,,R,3,T,J,F,4/15/2016,7/1/2023,7.208761123,EY,NA,moxi,T,T,T,,Y,Female,7,4/15/2016,White,No
+116,CY,VS,AJ,,R,4,J,T,M,5/15/2018,7/1/2023,5.127994524,KP,participant was a bit lost for the attention check so I had to give him a brief recap of the story,moxi,T,T,J,,Y,Male,5,5/15/2018,Hispanic or Latine,Maybe
+117,CY,VS,AJ,,R,1,J,T,S,12/15/2013,7/1/2023,9.541409993,EY,NA,moxi,J,J,J,,Y,Nonbinary,9,12/15/2013,White,No
+118,CY,VS,AJ,,R,1,J,T,F,1/15/2013,7/1/2023,10.45585216,KP,NA,moxi,J,J,J,,Y,Female,10,1/15/2013,White,No
+119,CY,VS,AJ,,R,1,J,T,F,12/15/2017,7/1/2023,5.541409993,EY,NA,moxi,J,J,J,,Y,Female,5,12/15/2017,White,No
+120,CY,VS,AJ,,R,3,T,J,F,6/15/2014,7/1/2023,9.04312115,KP,NA,moxi,J,T,T,,Y,Female,9,6/15/2014,White,No
+121,AKA,GB,VC,,W,1,J,T,F,1/15/2018,6/3/2023,5.379876797,VC,NA,zoo,T,J,both,,Y,Female,5,1/15/2018,Another race and/or ethnicity (not specified) ,No
+122,AKA,GB,VC,,R,3,T,J,F,8/15/2017,6/3/2023,5.798767967,AT,NA,zoo,J,J,T,,Y,Female ,5,8/15/2017,White,No
+123,AKA,GB,VC,,R,1,J,T,M,1/15/2014,6/3/2023,9.379876797,VC,NA,zoo,T,J,J,,Y,Female,9,1/15/2014,White,No
+124,AKA,GB,VC,,R,1,J,T,M,7/15/2017,6/4/2023,5.886379192,IB,NA,zoo,T,T,J,,Y,Male,5,7/15/2017,White,No
+125,AKA,GB,VC,,W,3,T,J,M,5/15/2019,6/4/2023,4.054757016,LL,didn't know for all 3 q's?,zoo,IDK,IDK,IDK,,Y,Male,4,5/15/2019,Hispanic or Latine,Yes - DNF
+126,AKA,GB,VC,,R,2,T,J,M,2/15/2016,6/4/2023,7.299110198,IB,seemed very unsure (about attention check),zoo,J,J,J,,Y,Male,7,2/15/2016,White,No
+127,AKA,GB,VC,,R,3,T,J,F,4/15/2014,6/4/2023,9.136208077,LL,NA,zoo,T,T,T,,Y,Female,9,4/15/2014,White,No
+128,AKA,GB,VC,No subject number on demo. sheet but number matched so filled it in,R,1,J,T,M,7/15/2014,6/4/2023,8.887063655,IB,NA,zoo,J,J,J,,Y,Male,8,7/15/2014,White,No
+129,AKA,GB,VC,,W,4,J,T,M,2/15/2014,6/4/2023,9.297741273,LL,NA,zoo,T,T,J,,Y,Male,9,2/15/2014,White,No
+130,AKA,GB,VC,,R,1,J,T,M,2/15/2018,6/4/2023,5.297741273,IB,NA,zoo,J,T,J,,Y,Male,5,2/15/2018,White,No
+131,AKA,GB,VC,Changed birth year in parent survey from 2023 to 2018,R,2,T,J,M,2/15/2018,6/4/2023,5.297741273,IB,NA,zoo,J,J,J,,Y,Male,5,2/15/2018,Asian or Asian American; White,No
+132,AKA,GB,VC,,R,4,J,T,F,4/15/2018,6/4/2023,5.136208077,LL,NA,zoo,J,J,T,,Y,Female,5,4/15/2018,White,No
+133,AKA,GB,VC,,R,4,J,T,F,2/15/2017,6/4/2023,6.29705681,LL,NA,zoo,J,T,J,,Y,Female,6,2/15/2017,White,No
+134,AKA,GB,VC,,R,1,J,T,M,1/15/2017,6/4/2023,6.381930185,IB,NA,zoo,T,J,J,,Y,Male,6,1/15/2017,White; Native Hawaiian of Pacific Islander,No
+135,CY,AA,AK,,W,1,J,T,M,4/15/2019,6/11/2023,4.156057495,VC,was very distracted,zoo,T,T,T,,Y,Male,4,4/15/2019,White,No
+136,CY,AA,AK,,W,2,T,J,M,10/15/2018,6/10/2023,4.651608487,VC,NA,zoo,T,T,J,,Y,Male,4,10/15/2018,White,No
+137,CY,AA,AK,,W,3,T,J,F,8/15/2018,6/10/2023,4.818617385,VC,NA,zoo,T,T,T,,Y,Female,4,8/15/2018,White,No
+138,CY,AA,AK,,R,1,J,T,F,3/15/2014,6/11/2023,9.240246407,LL,NA,zoo,J,J,J,,Y,Female,9,3/15/2014,Asian or Asian American,No
+139,CY,AA,AK,,R,3,T,J,M,1/15/2016,6/11/2023,7.403148528,AA,NA,zoo,T,J,T,,Y,Male,7,1/15/2016,Asian or Asian American,No
+140,CY,AA,AK,,W,2,T,J,M,5/15/2016,6/11/2023,7.071868583,LL,NA,zoo,J,J,T,,Y,Male,7,5/15/2016,Indian; White,No
+141,CY,AA,AK,,W,4,J,T,F,8/15/2015,6/11/2023,7.822039699,AA,NA,zoo,J,J,J,,Y,Female,7,8/15/2015,Hispanic or Latine,No
+142,CY,AA,AK,,W,1,J,T,M,8/15/2018,6/11/2023,4.821355236,LL,kid didn't speak english super well so mom had to help translate,zoo,J,J,J,,Y,Male,4,8/15/2018,White,Yes - Parent Interference
+143,CY,AA,AK,added location,W,4,J,T,F,5/15/2014,6/11/2023,9.073237509,AA,NA,zoo,T,T,J,,Y,Female,9,5/15/2014,Hispanic or Latine,No
+144,CY,AA,AK,,R,2,T,J,F,7/15/2012,6/11/2023,10.90485969,LL,NA,zoo,T,J,T,,Y,Female,10,7/15/2012,Hispanic or Latine,No
+145,CY,AA,AK,,W,3,T,J,F,12/15/2013,6/11/2023,9.486652977,AA,NA,zoo,J,J,T,,Y,Female,9,12/15/2013,White,No
+146,CY,AA,AK,,R,1,J,T,F,8/15/2014,6/11/2023,8.821355236,LL,NA,zoo,T,J,J,,Y,Female,8,8/15/2014,Hispanic or Latine,No
+147,CY,AA,AK,condition and order are missing,,,#N/A,#N/A,F,5/15/2015,6/11/2023,8.073921971,AA,NA,zoo,T,J,T,,Y,Female,8,5/15/2015,White,Yes - Missing Data
+148,CY,AA,AK,,W,2,T,J,M,6/15/2015,6/11/2023,7.989048597,LL,NA,zoo,J,J,T,,Y,Male,7,6/15/2015,Hispanic or Latine,No
+149,CY,AA,AK,,W,2,T,J,M,10/15/2013,6/11/2023,9.653661875,LL,NA,zoo,J,J,T,,Y,Male,9,10/15/2013,Hispanic or Latine,No
+150,CY,AA,AK,,W,1,J,T,M,11/15/2017,6/11/2023,5.568788501,LL,NA,zoo,T,J,J,,Y,Male,5,11/15/2017,White,No
+151,VS,AJ,AM,,W,1,J,T,F,9/15/2019,6/30/2023,3.789185489,AH,NA,zoo,J,T,NA,,Y,Female,3,9/15/2019,White,Yes - DNF
+152,VS,AJ,AM,,W,1,J,T,S,9/15/2020,6/30/2023,2.787132101,VC,"Parent interference, kid young",zoo,J,J,T,,Y,Female,2,9/15/2020,White,Yes - Age
+153,VS,AJ,AM,,R,1,J,T,M,1/15/2018,6/30/2023,5.453798768,AJ,NA,zoo,T,J,J,,Y,Male,5,1/15/2018,Hispanic or Latine,No
+154,VS,AJ,AM,,W,3,T,J,F,6/15/2012,6/30/2023,11.03901437,VC,NA,zoo,J,T,T,,Y,Female,11,6/15/2012,Hispanic or Latine,No
+155,VS,AJ,AM,,R,2,T,J,F,6/15/2018,6/30/2023,5.040383299,AJ,NA,zoo,J,T,T,,Y,Female,5,6/15/2018,White,No
+156,VS,AJ,AM,,W,2,T,J,M,11/15/2011,6/30/2023,11.62217659,VC,NA,zoo,J,J,T,,Y,Male,11,11/15/2011,White,No
+157,VS,AJ,AM,,R,3,T,J,M,11/15/2013,6/30/2023,9.620807666,AJ,NA,zoo,J,T,T,,Y,Male,9,11/15/2013,White,No
+158,VS,AJ,AM,,W,4,J,T,M,5/15/2020,6/30/2023,3.123887748,VC,didn't finish,zoo,NA,NA,NA,,Y,Male,3,5/15/2020,White,Yes - DNF
+159,VS,AJ,AM,,R,3,T,J,M,11/15/2011,6/30/2023,11.62217659,AJ,NA,zoo,T,T,T,,Y,Male,11,11/15/2011,White,No
+160,VS,AJ,AM,,W,4,J,T,M,8/15/2016,6/30/2023,6.872005476,VC,NA,zoo,T,T,J,,Y,Male,6,8/15/2016,Hispanic or Latine; White,No
+161,VS,AJ,AM,Age calculation and demo sheet/coding sheet age are different,R,1,J,T,M,8/15/2016,6/30/2023,6.872005476,AJ,NA,zoo,T,T,T,,Y,Male,5,8/15/2016,Hispanic or Latine; White,No
+162,VS,AJ,AM,,W,3,T,J,F,6/15/2019,6/30/2023,4.041067762,VC,NA,zoo,T,T,J,,Y,Female,4,6/15/2019,White; Mediterranean,No
+163,VS,AJ,AM,,R,2,T,J,F,11/15/2017,6/30/2023,5.620807666,AJ,NA,zoo,T,J,T,,Y,Female,5,11/15/2017,Asian or Asian American; White,No
+164,VS,AJ,AM,,W,4,J,T,M,8/15/2012,7/1/2023,10.87474333,JC,NA,zoo,T,T,J,,Y,Male,10,8/15/2012,White,No
+165,VS,AJ,AM,,R,3,T,J,M,12/15/2017,6/30/2023,5.538672142,AJ,NA,zoo,T,J,J,,Y,Male,5,12/15/2017,Hispanic or Latine,No
+166,VS,AJ,AM,,R,4,J,T,F,3/15/2016,6/30/2023,7.290896646,JC,NA,zoo,J,T,J,,Y,Female,7,3/15/2016,White,No
+167,VS,AJ,AM,,W,3,T,J,F,8/15/2014,7/1/2023,8.876112252,AJ,NA,zoo,J,J,T,,Y,Female,8,8/15/2014,White,No
+168,VS,AJ,AM,,R,3,T,J,M,7/15/2019,7/1/2023,3.961670089,AJ,NA,zoo,T,J,T,,Y,Male,3.5,7/15/2019,White,Yes - Age
+169,VS,AJ,AM,,W,1,J,T,F,12/15/2017,7/1/2023,5.541409993,AJ,NA,zoo,J,T,J,,Y,Female,5,12/15/2017,White,No
+170,VS,AJ,AM,Assuming birthdate from age,R,2,T,J,F,6/15/2019,7/1/2023,4.043805613,JC,NA,zoo,J,T,J,,Y,Female,4,NA,White,No
+171,VS,AJ,AM,,W,3,T,J,F,1/15/2013,7/1/2023,10.45585216,AJ,NA,zoo,J,J,T,,Y,Female,10,1/15/2013,White,No
+172,VS,AJ,AM,,W,3,T,J,F,8/15/2014,7/1/2023,8.876112252,AJ,NA,zoo,J,J,T,,Y,Female,8,8/15/2014,Hispanic or Latine,No
+173,VS,AJ,AM,,R,3,T,J,M,1/15/2020,7/1/2023,3.457905544,AJ,NA,zoo,J,J,T,,Y,Male,3,1/15/2020,Hispanic or Latine; White,Yes - Age
+174,VS,AJ,AM,big discrepency between experimenter sheet and demo sheet birthdate,R,4,J,T,F,12/15/2019,7/1/2023,3.542778919,JC,participant got distracted by another kid at the table,zoo,J,J,J,,Y,Female,7,1/15/2015,White,Yes - Age
+175,VS,AJ,AM,"No birth year reported, but assuming 2015",W,1,J,T,F,9/15/2015,7/1/2023,7.79192334,AJ,no birth year reported,zoo,T,J,J,,Y,Female,7,NA,Asian or Asian American; White,No
+176,VS,AJ,AM,,R,2,T,J,F,4/15/2019,7/1/2023,4.210814511,JC,NA,zoo,J,J,J,,Y,Female,4,4/15/2019,White,No
+177,VS,AJ,AM,,R,3,T,J,M,11/15/2017,7/1/2023,5.623545517,AJ,NA,zoo,J,T,T,,Y,Male,5,11/15/2017,White,No
+178,VS,AJ,AM,,R,4,J,T,F,3/15/2014,7/1/2023,9.295003422,JC,NA,zoo,J,J,J,,Y,Female,9,3/15/2014,White,No
+179,VS,AJ,AM,date of birth inputed from demo sheet,W,2,T,J,M,03/15/2018,7/1/2023,5.295003422,JC,"speaks mainly Spanish, so child may not have understood what was being asked",zoo,T,T,J,,Y,Male,5,3/15/2018,Hispanic or Latine,Yes - Language
+180,,,,"we have demo sheet, but not experiment sheet",,,#N/A,#N/A,,,,0,,,,,,,,,,,,,Yes - Missing Data
+181,VS,AJ,AM,,R,1,J,T,M,1/15/2017,7/1/2023,6.455852156,VC,NA,zoo,T,J,T,,Y,Male,6,1/15/2017,Hispanic or Latine,No
+182,VS,AJ,AM,,R,3,T,J,M,12/15/2014,7/1/2023,8.542094456,AJ,Participant completed experiment at Moxi the day before,zoo,T,T,J,,Y,Male,8,12/15/2014,White,Yes - Past Participation
+183,VS,AJ,AM,,W,2,T,J,M,2/15/2017,7/1/2023,6.370978782,JC,Participant completed experiment at Moxi the day before,zoo,J,J,T,,Y,Male,6,2/15/2017,White,Yes - Past Participation
+184,VS,AJ,AM,,R,4,J,T,M,4/15/2013,7/2/2023,10.21218344,AH,accidentally didn't gender match,zoo,T,J,J,,Y,Male,10,4/15/2013,White,No
+185,VS,AJ,AM,,W,1,J,T,F,5/15/2015,7/2/2023,8.131416838,RS,NA,zoo,T,T,J,,Y,Female,8,5/15/2015,White,No
+186,VS,AJ,AM,,W,3,T,J,F,12/15/2018,7/2/2023,4.544832307,RS,she was not looking at the story,zoo,T,T,T,,Y,Female,4,12/15/2018,White,Maybe
+187,VS,AJ,AM,,R,4,J,T,F,7/15/2019,7/2/2023,3.96440794,AH,NA,zoo,J,J,T,,Y,Female,3,7/15/2019,Hispanic or Latine; White,No
+188,CY,AJ,AM,,W,1,J,T,F,1/15/2012,7/2/2023,11.46064339,RS,NA,zoo,T,T,J,,Y,Female,11,1/15/2012,Hispanic or Latine; White,No
+189,CY,AJ,AM,,R,3,T,J,M,8/15/2014,7/2/2023,8.878850103,AH,NA,zoo,J,T,T,,Y,Male,8,8/15/2014,White,No
+190,CY,AJ,AM,demo sheet has wrong year for birthdate,W,3,T,J,F,3/15/2019,7/2/2023,4.298425736,RS,NA,zoo,J,J,T,,Y,Female,4,3/15/2023,Other,No
+191,CY,AJ,AM,,W,3,T,J,F,6/15/2017,7/2/2023,6.045174538,RS,for competence she said Rowan multiple times,zoo,T,NA,T,,Y,Female,6,6/15/2017,Hispanic or Latine,Yes - DNF
+192,CY,AJ,AM,birthday taken from demographic sheet,R,3,T,J,M,6/15/2020,7/2/2023,3.044490075,SR,"was not paying full attention, dad spoke during",zoo,T,T,T,,Y,Male,3,6/15/2020,White,Yes - Age
+193,CY,AJ,AM,,W,1,J,T,F,4/15/2017,7/2/2023,6.212183436,RS,NA,zoo,T,J,J,,Y,Female,6,4/15/2017,Asian or Asian American; White,No
+194,CY,AJ,AM,,R,1,J,T,M,10/15/2019,7/2/2023,3.712525667,SR,"wasn't fully paying attention, mom spoke during",zoo,T,T,T,,Y,Male,3,10/15/2019,Hispanic or Latine,Yes - Age
+195,CY,AJ,AM,birthday taken from demographic sheet,R,4,J,T,F,3/15/2011,7/2/2023,12.29842574,SR,NA,zoo,T,J,J,,Y,Female,12,3/15/2011,White,No
+196,CY,AJ,AM,,W,2,T,J,M,9/15/2012,7/2/2023,10.7926078,RS,NA,zoo,J,J,T,,Y,Male,10,9/15/2012,White,No
+197,CY,AJ,AM,missing condition and order number,,,#N/A,#N/A,F,4/15/2014,7/2/2023,9.212867899,AH,NA,zoo,T,J,J,,Y,Female,9,4/15/2014,Hispanic or Latine,Yes - Missing Data
+198,CY,AJ,AM,,R,4,J,T,F,1/15/2016,7/2/2023,7.460643395,SR,NA,zoo,J,T,T,,Y,Female,7,11/15/2016,White,No
+199,CY,AJ,AM,,R,3,T,J,M,6/15/2017,7/2/2023,6.045174538,SR,NA,zoo,J,T,T,,Y,Male,6,,,No
+200,CY,AJ,AM,,W,2,T,J,M,5/15/2017,7/2/2023,6.130047912,AH,NA,zoo,T,J,T,,Y,Male,6,5/15/2017,White,No
+201,CY,AJ,AM,,W,4,J,T,M,7/15/2014,7/2/2023,8.963723477,AH,NA,zoo,T,T,J,,Y,Male,8,,,No
+202,CY,AJ,AM,birthday taken from demographic sheet,W,3,T,J,S,11/15/2019,7/2/2023,3.627652293,AH,NA,zoo,T,T,J,,Y,Female,3,11/15/2019,White,Yes - Age
+203,CY,AJ,AM,,R,3,T,J,M,10/15/2019,7/2/2023,3.712525667,SR,"Dad commented, kid did not pay attention",zoo,J,J,J,,Y,Male,3,10/15/2019,White,Yes - Age
+204,CY,AJ,AM,,W,4,J,T,M,8/15/2014,7/2/2023,8.878850103,AH,NA,zoo,J,J,J,,Y,Male,8,8/15/2014,White,No
+205,CY,AJ,AM,,R,2,T,J,F,2/15/2020,7/2/2023,3.375770021,SR,"kid lost focus a few times, mom helped regain attention",zoo,T,T,J,,Y,Female,3,2/15/2020,Black or African American,Yes - Age
+206,CY,AJ,AM,,R,1,J,T,M,1/15/2020,7/2/2023,3.460643395,SR,"did not pay attention, Dad commented throughout",zoo,T,T,J,,Y,Male,3,1/15/2020,Asian or Asian American,Yes - Age
+207,CY,AJ,AM,,W,2,T,J,M,11/15/2014,7/2/2023,8.62696783,AH,NA,zoo,J,T,T,,Y,Male,8,11/15/2014,Hispanic or Latine,No
+208,CY,AJ,AM,,W,2,T,J,M,6/15/2014,7/2/2023,9.045859001,AH,NA,zoo,J,J,T,,Y,Male,9,6/15/2014,Hispanic or Latine; White,No
+209,CY,AJ,AM,,R,3,T,J,M,7/15/2015,7/2/2023,7.96440794,SR,NA,zoo,T,T,J,,Y,Male,8,7/15/2015,Hispanic or Latine; White,No
+210,CY,AJ,AM,,W,4,J,T,M,4/15/2019,7/2/2023,4.213552361,RS,Mom helped kid was not interested in answering,zoo,NA,J,T,,Y,Male,4,4/15/2019,White,Yes - DNF
+211,CY,AJ,AM,,W,1,J,T,F,6/15/2019,7/2/2023,4.046543463,RS,NA,zoo,J,J,J,,Y,Female,4,4/6/2019,White,No
+241,CY,VS,AJ,,R,4,J,T,M,5/15/2012,7/1/2023,11.1266256,EY,NA,moxi,J,J,J,,Y,Male,11,5/15/2012,White,No
+242,CY,VS,AJ,,R,3,T,J,F,6/15/2016,7/1/2023,7.041752225,KP,participant wanted to say both for competence question,moxi,J,T,T,,Y,Female,7,6/15/2016,White,No
+243,CY,VS,AJ,,R,3,T,J,F,3/15/2017,7/1/2023,6.29431896,EY,NA,moxi,T,T,T,,Y,Female,6,3/15/2017,White,No
+244,CY,VS,AJ,,R,4,J,T,M,7/15/2016,7/1/2023,6.959616701,KP,for competence check participant initially said both. He also said his name was Alex and there's a Jayden and Rowan in his class.,moxi,T,T,J,,Y,Male,6,7/15/2016,White,No
+245,CY,VS,AJ,,R,2,T,J,M,9/15/2019,7/1/2023,3.79192334,EY,NA,moxi,J,T,J,,Y,Male,3,9/15/2019,Hispanic or Latine,Yes - Age
+246,CY,VS,AJ,,R,1,J,T,F,12/15/2016,7/1/2023,6.54072553,KP,Participant needed a recap for competence question,moxi,J,J,J,,Y,Female,6,12/15/2016,White,No
+247,CY,VS,AJ,,R,4,J,T,M,9/15/2016,7/1/2023,6.789869952,EY,NA,moxi,T,T,T,,Y,Male,6,9/15/2016,White,No
+248,CY,VS,AJ,,R,2,T,J,M,9/15/2016,7/1/2023,6.789869952,KP,Sibling had told him to pick Taylor for Friendship question,moxi,J,T,T,,Y,Male,6,9/15/2016,White,Yes - Interference
+249,CY,VS,AJ,,R,4,J,T,M,12/15/2016,7/1/2023,6.54072553,EY,NA,moxi,J,J,J,,Y,Male,6,12/15/2016,Asian or Asian American; White,No
+250,CY,VS,AJ,,R,2,T,J,M,8/15/2018,7/1/2023,4.876112252,KP,NA,moxi,J,T,J,,Y,Male,4,8/15/2018,White; Native Hawaiian or Pacific Islander,No
+251,CY,VS,AJ,,R,4,J,T,M,2/15/2016,7/1/2023,7.37303217,EY,NA,moxi,T,J,T,,Y,Male,7,2/15/2016,Hispanic or Latine,No
+252,CY,VS,AJ,,R,2,T,J,M,3/15/2011,7/1/2023,12.29568789,KP,NA,moxi,T,T,T,,Y,Male,12,3/15/2011,Hispanic or Latine,No
+253,CY,VS,AJ,,R,4,J,T,M,1/15/2018,7/1/2023,5.456536619,EY,NA,moxi,T,T,J,,Y,Male,5,1/15/2018,Hispanic or Latine,No
+254,CY,VS,AJ,,R,1,J,T,F,7/15/2007,7/1/2023,15.96167009,KP,NA,moxi,J,J,J,,Y,Female,15,7/15/2007,White,Yes - Age
+255,CY,VS,AJ,,R,2,T,J,M,5/15/2015,7/1/2023,8.128678987,EY,NA,moxi,T,J,T,,Y,Male,8,5/15/2015,White,No
+256,CY,VS,AJ,demo sheet says 256 but logsheet says 259. Changed logsheet to 256 as another participant is 259 already,R,1,J,T,F,12/15/2014,7/1/2023,8.542094456,,NA,moxi,J,J,J,,Y,Female,8.5,12/15/2014,Asian or Asian American; Hispanic or Latine; White; Native American or Alaska Native,No
+257,CY,VS,AJ,,R,1,J,T,F,12/15/2016,7/1/2023,6.54072553,EY,NA,moxi,J,J,J,,Y,Female,6,12/15/2016,White,No
+258,CY,AJ,AM,,W,4,J,T,F,2/15/2014,7/2/2023,9.374401095,RC,NA,moxi,T,T,J,,Y,Female,9,2/15/2014,White,No
+259,CY,AJ,RB,,W,2,T,J,F,8/15/2012,7/2/2023,10.87748118,EY,NA,moxi,J,J,T,,Y,Female,10,8/15/2012,White,No
+260,CY,AJ,RB,,R,2,T,J,M,8/15/2014,7/2/2023,8.878850103,RC,NA,moxi,J,T,T,,Y,Male,8,8/15/2014,White,No
+261,CY,AJ,RB,changed reported birth year to match demo sheet and reported age,R,3,T,J,F,7/15/2016,7/2/2023,6.962354552,EY,NA,moxi,T,J,J,,Y,Female,6,7/15/2016,White,No
+262,CY,AJ,RB,,R,2,T,J,M,8/15/2016,7/2/2023,6.877481177,RC,said he was also a dino expert and that they didn't eat insects,moxi,J,J,J,,Y,Male,6,8/15/2016,Asian or Asian American; White,No
+263,CY,AJ,RB,,W,3,T,J,M,9/15/2018,7/2/2023,4.793976728,EY,NA,moxi,T,J,T,,Y,Male,4,9/15/2018,White,No
+264,CY,AJ,RB,,W,4,J,T,F,6/15/2019,7/2/2023,4.046543463,RC,NA,moxi,J,J,T,,Y,Female,4,6/15/2019,Asian or Asian American,No
+265,CY,AJ,RB,missing condition and order number,,,#N/A,#N/A,M,6/15/2019,7/2/2023,4.046543463,EY,NA,moxi,T,J,J,,Y,Male,4,6/15/2019,Asian or Asian American; White,Yes - Missing Data
+266,CY,AJ,RB,,R,2,T,J,M,6/15/2019,7/2/2023,4.046543463,RC,listened to brother do different version of the story before,moxi,J,T,T,,Y,Male,4,6/15/2019,Asian or Asian American,Maybe
+267,CY,AJ,RB,,R,1,J,T,F,4/15/2017,7/2/2023,6.212183436,EY,NA,moxi,J,J,J,,Y,Female,6,4/15/2017,White,No
+268,CY,AJ,RB,,R,2,T,J,M,11/15/2017,7/2/2023,5.626283368,RC,NA,moxi,J,T,J,,Y,Male,5,11/15/2017,Hispanic or Latine; White,No
+269,CY,AJ,RB,,R,3,T,J,F,9/15/2017,7/2/2023,5.793292266,AK,NA,moxi,J,J,T,,Y,Female,5,9/15/2017,Hispanic or Latine; White,No
+270,CY,AJ,RB,,W,2,T,J,F,8/15/2016,7/2/2023,6.877481177,RC,NA,moxi,J,T,T,,Y,Female,6,8/15/2016,White,No
+271,CY,AJ,RB,,R,3,T,J,F,10/15/2018,7/2/2023,4.711841205,AK,parent interference w/ last question (attention check),moxi,J,J,J,,Y,Female,4,10/15/2018,White,Yes - Interference
+272,CY,AJ,RB,,R,1,J,T,F,3/15/2014,7/2/2023,9.297741273,EY,NA,moxi,J,J,J,,Y,Female,9,3/15/2014,Asian or Asian American; White,No
+273,CY,AJ,RB,,R,3,T,J,F,1/15/2015,7/2/2023,8.459958932,AK,NA,moxi,T,J,T,,Y,Female,8,1/15/2015,Asian or Asian American,No
+274,CY,AJ,RB,,W,2,T,J,F,10/15/2016,7/2/2023,6.710472279,RC,NA,moxi,J,J,T,,Y,Female,6,10/15/2016,Asian or Asian American; White,No
+275,CY,AJ,RB,,R,3,T,J,F,2/15/2018,7/2/2023,5.374401095,AK,was distracted,moxi,J,J,T,,Y,Female,5,2/15/2018,Asian or Asian American,No
+276,CY,AJ,RB,,R,3,T,J,F,11/15/2018,7/2/2023,4.62696783,EY,sister named Alex,moxi,T,J,T,,Y,Female,4.5,11/15/2018,White,No
+277,CY,AJ,RB,,R,3,T,J,F,1/15/2015,7/2/2023,8.459958932,AK,NA,moxi,T,T,T,,Y,Female,8,1/15/2015,White,No
+278,CY,AJ,RB,,R,4,J,T,M,6/15/2016,7/2/2023,7.044490075,RC,NA,moxi,T,J,T,,Y,Male,7,6/15/2016,White,No
+279,CY,AJ,RB,,W,1,J,T,M,9/15/2016,7/2/2023,6.792607803,EY,NA,moxi,T,T,J,,Y,Male,6,9/15/2016,Hispanic or Latine; White,No
+280,CY,AJ,RB,,W,2,T,J,F,4/15/2019,7/2/2023,4.213552361,RC,NA,moxi,J,J,T,,Y,Female,4,4/15/2019,Asian or Asian American; White,No
+281,CY,AJ,RB,changed birthdate to match reported age,R,3,T,J,F,3/15/2018,7/2/2023,5.297741273,EY,NA,moxi,J,J,T,,Y,Female,5,3/15/2016,White,No
+282,CY,AJ,RB,missing condition and order number,,,#N/A,#N/A,M,6/15/2011,7/2/2023,12.04654346,RC,was 12 not sure if ran be included,moxi,T,J,J,,Y,Male,12,6/15/2011,Hispanic or Latine,Yes - Missing Data
+283,CY,AJ,RB,,W,3,T,J,M,11/15/2012,7/2/2023,10.6255989,EY,NA,moxi,J,T,J,,Y,Male,10,11/15/2012,Hispanic or Latine,No
+284,CY,AJ,RB,,R,4,J,T,M,6/15/2015,7/2/2023,8.046543463,RC,brother was whispering asnwers to him,moxi,J,J,J,,Y,Male,8,6/15/2015,Another race and/or ethnicity,Yes - Interference
+285,CY,AJ,RB,,R,1,J,T,F,6/15/2018,7/2/2023,5.045859001,EY,RA read little fast oops,moxi,J,J,T,,Y,Female,5,6/15/2018,White,No
+286,CY,AJ,RB,,R,2,T,J,M,7/15/2016,7/2/2023,6.962354552,RC,listened to brother do different version of the story before,moxi,J,T,J,,Y,Male,7,7/15/2016,Another race and/or ethnicity,Yes - Interference
+287,CY,SR,AK,,W,3,T,J,M,12/15/2010,7/2/2023,12.54483231,EY,NA,moxi,J,J,T,,Y,Male,12,12/15/2010,White,No
+288,CY,AJ,RB,,R,2,T,J,M,8/15/2017,7/2/2023,5.87816564,RC,NA,moxi,T,T,J,,Y,Male,5,8/15/2017,White,No
+289,CY,AP,RB,Chuyi- double check this one,W,3,T,J,M,12/15/2011,7/7/2023,11.55920602,GB,NA,moxi,J,T,T,,Y,Male,11,NA,Hispanic or Latine,No
+289.1,CY,AJ,RB,missing condition and order number,,,#N/A,#N/A,M,10/15/2013,7/2/2023,9.711156742,,,moxi,T,J,T,,Y,Male,9,10/15/2012,White,Yes - Missing Data
+290,CY,AP,RB,,W,2,T,J,F,11/15/2015,7/7/2023,7.641341547,AP,NA,moxi,J,J,T,,Y,Female,7,11/15/2015,White; Black or African American,No
+291,CY,AP,RB,birthdate and reported age do not match - changed birthyear to match,W,1,J,T,F,4/15/2013,7/7/2023,10.22587269,GB,NA,moxi,T,T,J,,Y,Female,11,NA,Asian or Asian American,No
+292,CY,AP,RB,,W,1,J,T,M,11/15/2009,7/7/2023,13.63997262,AP,NA,moxi,J,J,J,,Y,Male,13,11/15/2009,White,Yes - Age
+293,CY,AP,RB,,W,1,J,T,F,7/15/2012,7/7/2023,10.97604381,GB,NA,moxi,T,T,J,,Y,Female,10,7/15/2012,Hispanic or Latine,No
+294,CY,AP,RB,,W,2,T,J,S,10/15/2012,7/7/2023,10.72416153,AP,NA,moxi,J,J,T,,Y,Something Else,10,10/15/2012,Hispanic or Latine; White,No
+295,CY,AP,RB,,W,4,J,T,M,7/15/2016,7/7/2023,6.976043806,GB,NA,moxi,T,T,J,,Y,Male,7,7/15/2016,Hispanic or Latine,No
+296,CY,AP,RB,,W,2,T,J,F,8/15/2017,7/7/2023,5.891854894,AP,NA,moxi,J,J,T,,Y,Female,5,8/15/2017,Hispanic or Latine; White,No
+297,CY,AP,RB,,W,4,J,T,F,5/15/2014,7/7/2023,9.144421629,AK,NA,moxi,T,J,J,,Y,Female,NA,5/15/2014,White,No
+298,CY,AP,RB,,W,1,J,T,F,2/15/2011,7/7/2023,12.38877481,AP,NA,moxi,T,J,J,,Y,Female,12,2/15/2011,White,No
+299,CY,AP,RB,,W,2,T,J,M,4/15/2016,7/7/2023,7.225188227,AP,NA,moxi,J,J,T,,Y,Male,7,4/15/2016,White,No
+300,CY,AP,RB,,W,1,J,T,M,4/15/2020,7/7/2023,3.225188227,AP,NA,moxi,T,J,T,,Y,Male,3,4/15/2020,Hispanic or Latine; White; Arabic,Yes - Age
+301,CY,AP,RB,,W,3,T,J,F,8/15/2016,7/7/2023,6.891170431,AK,NA,moxi,T,J,T,,Y,Female; They,6,8/15/2016,Asian or Asian American; White; Native Hawaiian or Pacific Islander,No
+302,CY,AP,RB,,W,2,T,J,M,1/15/2019,7/7/2023,4.473648186,AP,NA,moxi,T,T,T,,Y,Male,4,1/15/2019,White,No
+303,CY,AP,RB,,W,3,T,J,F,5/15/2017,7/7/2023,6.143737166,AK,NA,moxi,J,T,T,,Y,Female,6,5/15/2017,White,No
+304,CY,AP,RB,,W,2,T,J,F,12/15/2016,7/7/2023,6.557152635,AP,NA,moxi,J,J,T,,Y,Female,6,12/15/2016,Asian or Asian American; Hispanic or Latine,No
+305,CY,SR,RB,,W,4,J,T,F,12/15/2016,7/7/2023,6.557152635,GB,NA,moxi,J,J,T,,Y,Female,6.5,12/15/2016,Asian or Asian American; Hispanic or Latine; White,No
+306,CY,SR,RB,,W,1,J,T,F,4/15/2015,7/7/2023,8.227241615,AP,NA,moxi,J,J,J,,Y,Female,8,4/15/2015,White,No
+307,CY,SR,RB,,W,3,T,J,F,2/15/2012,7/7/2023,11.38945927,GB,NA,moxi,J,J,T,,Y,Female,11,2/15/2012,White,No
+308,CY,SR,RB,,W,1,J,T,M,11/15/2012,7/7/2023,10.63928816,AP,NA,moxi,T,T,J,,Y,Male,10,11/15/2012,White; Black or African American,No
+309,CY,SR,RB,,W,3,T,J,M,12/15/2010,7/7/2023,12.55852156,GB,NA,moxi,J,J,T,,Y,Male,12,12/15/2010,White,No
+310,CY,SR,RB,,W,2,T,J,M,12/15/2010,7/7/2023,12.55852156,AP,NA,moxi,J,J,T,,Y,Male,12,12/15/2010,White,No
+311,CY,SR,RB,,W,4,J,T,F,6/15/2017,7/7/2023,6.058863792,GB,NA,moxi,T,J,J,,Y,Female,6,6/15/2017,Hispanic or Latine,No
+312,CY,SR,RB,,W,2,T,J,M,7/15/2014,7/7/2023,8.977412731,AP,Mom translated story to her son,moxi,J,J,T,,Y,Male,9,7/15/2014,Asian or Asian American; Hispanic or Latine,Yes - Language
+313,CY,SR,RB,,W,4,J,T,F,3/15/2019,7/7/2023,4.31211499,GB,NA,moxi,T,J,J,,Y,Female,4,NA,White,No
+314,CY,SR,RB,,W,1,J,T,M,1/15/2017,7/7/2023,6.472279261,AP,NA,moxi,J,J,T,,Y,Male,6,NA,White,No
+315,CY,SR,RB,,W,4,J,T,F,3/15/2015,7/7/2023,8.31211499,GB,NA,moxi,T,T,T,,Y,Female,7,3/15/2015,White,No
+316,CY,SR,RB,,W,2,T,J,M,6/15/2010,7/7/2023,13.05954825,AP,NA,moxi,J,T,T,,Y,Male,13,7/15/2010,Hispanic,Yes - Age
+317,CY,SR,RB,,W,3,T,J,M,2/15/2018,7/7/2023,5.388090349,GB,NA,moxi,T,J,T,,Y,Male,5,2/15/2018,White,No
+318,CY,SR,RB,Birthday disparity between child reported birthday on coding sheet and parent survey,W,1,J,T,F,8/15/2013,7/7/2023,9.891854894,AP,NA,moxi,T,J,J,,Y,Female,9,9/15/2013,White,No
+319,CY,SR,RB,,W,3,T,J,F,7/15/2018,7/7/2023,4.977412731,GB,NA,moxi,J,J,T,,Y,Female,5,7/15/2018,White,No
+320,CY,SR,RB,,W,2,T,J,F,2/15/2016,7/7/2023,7.389459274,AP,NA,moxi,J,T,J,,Y,Female,7,2/15/2016,White,No
+321,CY,SR,RB,,R,1,J,T,F,9/15/2013,7/8/2023,9.80971937,GB,NA,moxi,J,J,J,,Y,Female,9,9/15/2013,White,No
+322,CY,SR,RB,,R,3,T,J,F,9/15/2014,7/8/2023,8.810403833,GB,NA,moxi,T,J,T,,Y,Female,8,9/15/2014,White,No
+323,CY,SR,RB,,R,3,T,J,F,10/15/2014,7/8/2023,8.728268309,GB,NA,moxi,T,J,T,,Y,Female,8,10/15/2014,White,No
+324,CY,SR,RB,gender disparity between child reported gender and demo sheet,R,1,J,T,F,12/15/2012,7/8/2023,10.55989049,KP,NA,moxi,T,J,J,,Y,Male,10,12/15/2012,White,No
+325,CY,SR,RB,"Birth year, not month, reported on parent survey, no report on coding sheet",R,1,J,T,F,NA,7/8/2023,10,GB,NA,moxi,J,J,J,,Y,Female,10,2013,Hispanic or Latine,No
+326,CY,SR,RB,,R,4,J,T,M,1/15/2015,7/8/2023,8.476386037,KP,NA,moxi,T,J,J,,Y,Male,8,1/15/2015,Hispanic or Latine,No
+327,CY,SR,RB,,R,2,T,J,F,6/15/2012,7/9/2023,11.06365503,AK,NA,moxi,T,J,T,,Y,Female,11,6/15/2012,Hispanic or Latine,No
+328,CY,SR,RB,,R,3,T,J,F,9/15/2012,7/9/2023,10.81177276,AKA,NA,moxi,T,J,T,,Y,Female,10,9/15/2012,White,No
+329,CY,SR,RB,,R,3,T,J,F,9/15/2014,7/9/2023,8.813141684,EY,NA,moxi,T,T,T,,Y,Female,8,9/15/2014,White,No
+330,CY,SR,RB,,R,3,T,J,F,4/15/2013,7/9/2023,10.23134839,EY,reviewed story in between friendship and competence,moxi,T,T,T,,Y,Female,10,4/15/2013,White,Maybe
+331,CY,SR,RB,,R,1,J,T,M,10/15/2010,7/9/2023,12.73100616,EY,NA,moxi,J,J,J,,Y,Male,12,10/15/2010,White,No
+332,CY,SR,RB,,R,3,T,J,F,8/15/2013,7/9/2023,9.897330595,AK,NA,moxi,T,T,T,,Y,Female,9,8/15/2013,Persian/Iranian,No
